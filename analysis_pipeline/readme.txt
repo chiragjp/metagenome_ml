@@ -51,3 +51,28 @@ Compresses the voluminous data that is not useful to the shiny app (large file, 
 
 
 The results can subsequently be given to the shiny app to display the results interactively (put the data generated in the "data" folder of the shiny app)
+
+Libraries used in analysis:
+boot
+caret
+caTools
+dplyr
+doParallel
+DT
+dummies
+e1071
+gbm
+ggplot2
+glmnet
+MLmetrics
+nnet
+openxlsx
+pROC
+randomForest
+randomForestSRC
+shiny
+shinyBS
+shinydashboard
+shinyLP
+survcomp
+survival
