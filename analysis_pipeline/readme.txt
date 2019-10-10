@@ -1,5 +1,7 @@
 **Instructions to run the pipeline to regenerate the results and display them.**
 
+*For the manuscript, we ran all analyses in R V3.4.4
+
 The results are generated using the computation pipeline (folder 'scripts_computation') and are displayed using the shiny app (folder 'scripts_shiny_app').
 
 The computation pipeline is constituted of several steps that run several dozens of thousands of jobs in parallel.
